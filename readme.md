@@ -2,4 +2,4 @@
 
 ![](./qrcode.png)
 
-[Deployed Link]()
+[Deployed Link](https://keen-cannoli-ad206b.netlify.app/)
